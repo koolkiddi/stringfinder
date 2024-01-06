@@ -8,8 +8,8 @@ from multiprocessing import Pool
 colorama.init(autoreset=True)
 
 # Configuration des chemins
-search_path = "D:/your/path"
-save_path = "D:/save/text/path"
+search_path = "C:/path/to/your/database"
+save_path = "C:/path/to/output/folder"
 
 def clear_console():
     os.system('cls' if os.name == 'nt' else 'clear')
