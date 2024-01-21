@@ -36,11 +36,11 @@ def main():
         clear_console()
         print_centered("***************************************************************")
         print_centered("*                    DB String Checker                        *")
-        print_centered("*                       Par Vicious                           *")
+        print_centered("*                       Par wodx                              *")
         print_centered("*                     Discord: wodxx.                         *")
         print_centered("***************************************************************")
         print_centered("*   Recherche rapide de pseudo/mail/IP/uuid/name/tel          *")
-        print_centered("*   C'est plus utile si vous avez des base de données.        *")
+        print_centered("*   C'est plus utile si vous avez des bases de données.       *")
         print_centered("***************************************************************")
         # Changer la couleur du texte suivant en blanc
         colorama.init(autoreset=False)
