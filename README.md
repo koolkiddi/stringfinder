@@ -35,7 +35,7 @@ save_path = "path/to/output/folder"
 Run the script in your terminal or command prompt:
 
 ```bash
-python db_string_checker.py
+python dbchecker.py
 ```
 
 ![DBChecker](https://image.noelshack.com/fichiers/2024/01/6/1704514453-screenshot-2.png)
